@@ -144,6 +144,7 @@ function NewProduct(Product, Department, Price, Stock) {
     [Product, Department, Price, Stock],
     function(err, res) {
       if (err) throw err;
+      console.log("New Product added \n");
       Main();
     }
   );

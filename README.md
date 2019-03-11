@@ -51,7 +51,7 @@ Command Line Amazon-like storefront with MySQL
   > ![Supervisor-Sales](Screenshots/Supervisor-Sales.png) 
   * **Create New Department** 
   *  The name for the new department will be asked, if it already exist, it won't be created.
-  > ![Supervisor-Create](Screenshots/Supervisor-CreateDepartment.PNG)  
+  > ![Supervisor-Create](Screenshots/Supervisor-CreateDepartment.png)  
 
 
 ***

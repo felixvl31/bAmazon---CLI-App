@@ -27,7 +27,7 @@ Command Line Amazon-like storefront with MySQL
    > ![Manager-Command](Screenshots/Manager-Command.png)
   *  There are 5 choices
    > ![Manager-Choices](Screenshots/Manager-Choices.png) 
-  **View Products for Sale**
+  * **View Products for Sale**
   *  A table with the the items for sale will be displayed
   > ![Manager-Sales](Screenshots/Manager-Sales.png) 
   * **View Low Inventary** 

@@ -23,20 +23,20 @@ Command Line Amazon-like storefront with MySQL
    > ![Customer-Choices](Screenshots/Customer-Buy.png)  
 
 * Manager have multiple options
-  To run the app type "node bAmazonManager"
+  *  To run the app type "node bAmazonManager"
    > ![Manager-Command](Screenshots/Manager-Command.png)
-  There are 5 choices
+  *  There are 5 choices
    > ![Manager-Choices](Screenshots/Manager-Choices.png) 
   **View Products for Sale**
   *  A table with the the items for sale will be displayed
   > ![Manager-Sales](Screenshots/Manager-Sales.png) 
-  **View Low Inventary** 
+  * **View Low Inventary** 
   *  A table with the item which stock is lower than 5 will be displayed.
   > ![Manager-LowStock](Screenshots/Manager-LowStock.png)
-  **Add to Inventary** 
+  * **Add to Inventary** 
   *  The list of all items & current stock will be displayed, ID & Unit to restock will be requested.
   > ![Manager-LowStock](Screenshots/Manager-Restock.png)  
-  **Add New Product** 
+  * **Add New Product** 
   *  Series of question to create a new product, Departments avaible will be the ones already created by the Supervisor.
   > ![Manager-Create](Screenshots/Manager-CreateP1.png)
   > ![Manager-Create](Screenshots/Manager-CreateP2.png)      

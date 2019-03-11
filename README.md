@@ -38,8 +38,8 @@ Command Line Amazon-like storefront with MySQL
   > ![Manager-LowStock](Screenshots/Manager-Restock.png)  
   * **Add New Product** 
   *  Series of question to create a new product, Departments avaible will be the ones already created by the Supervisor.
-  > ![Manager-Create](Screenshots/Manager-CreateP1.png)
-  > ![Manager-Create](Screenshots/Manager-CreateP2.png)      
+  > ![Manager-Create](Screenshots/Manager-Create1.png)
+  > ![Manager-Create](Screenshots/Manager-Create2.png)      
 
 * Supervisor can check the sales by department and create new departments
   *  To run the app type "node bAmazonSupervisor"

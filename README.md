@@ -37,8 +37,8 @@ Command Line Amazon-like storefront with MySQL
   *  The list of all items & current stock will be displayed, ID & Unit to restock will be requested.
   > ![Manager-LowStock](Screenshots/Manager-Restock.png)  
   * **Add New Product** 
-  *  Series of question to create a new product, Departments avaible will be the ones already created by the Supervisor.
-  > ![Manager-Create](Screenshots/Manager-Create1.png)
+  *  Series of question to create a new product, Departments available will be the ones already created by the Supervisor.
+  > ![Manager-Create](Screenshots/Manager-Create1.png)\
   > ![Manager-Create](Screenshots/Manager-Create2.png)      
 
 * Supervisor can check the sales by department and create new departments

@@ -22,7 +22,7 @@ connection.connect(function(err) {
 
 function DisplaySales() {
   connection.query(
-    `SELECT departments.id,departments.department,departments.Over_Head_Cost,DepartmentsTable.Product_Sales,
+    `SELECT departments.id AS 'ID',departments.department AS 'Department',departments.Over_Head_Cost as 'Over Head Cost',DepartmentsTable.Product_Sales,
     DepartmentsTable.Product_Sales - Over_Head_Cost as 'Total Profit' 
     From departments 
     INNER JOIN (SELECT products.department,SUM(product_sales) as 'Product_Sales' 

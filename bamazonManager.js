@@ -23,7 +23,7 @@ connection.connect(function(err) {
 
 function DisplayItems() {
   connection.query(
-    "SELECT * from products",function(err, res) {
+    "SELECT products.ID,products.Product,products.Department,products.Stock from products",function(err, res) {
       if (err) console.log(err);
       const table = cTable.getTable(res);
       console.log(table);
